@@ -24,14 +24,14 @@ class SearchEngineResults extends Component {
 
   openModal(song) {
     this.setState({
-        visible: true,
-        selectedSong: song
+      visible: true,
+      selectedSong: song
     });
     }
  
   closeModal() {
     this.setState({
-        visible: false
+      visible: false
     });
   }
 
