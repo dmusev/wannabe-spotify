@@ -1,0 +1,20 @@
+.header-container {
+  border-bottom: 1px solid #000;
+
+  .site-header {
+    padding: 20px;
+  }
+
+  .main-nav {
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+    }
+
+    ul li {
+      margin-left: 10px;
+    }
+  }
+}

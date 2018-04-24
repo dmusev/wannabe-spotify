@@ -1,0 +1,32 @@
+.search-view {
+  margin: 10px;
+
+  .form-group {
+    display: inline
+  }
+  .btn-primary {
+    margin-left: 10px
+  }
+}
+
+.search-results {
+   ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul li {
+    margin-bottom: 20px
+  }
+  .main-buttons {
+    margin-top: 5px;
+  }
+  .info-span {
+    display: block
+  }
+}
+
+.search-modal-form {
+  margin-top: 20px;
+  margin-left: 20px; 
+}
