@@ -68,6 +68,7 @@ class SearchEngineResults extends Component {
   
   addSongToPlaylist(e) {
     e.preventDefault()
+    if(!this.state.selectPlaylist) return
     this.props.addSong(this.state.selectPlaylist, this.state.selectedSong);
     this.closeModal()
   }
