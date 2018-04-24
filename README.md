@@ -1,5 +1,5 @@
 ### What's this ?
-This is a wannabe-spotify app that has as a purpose to train my React&Redux approach.
+This is a wannabe-spotify app that has as a purpose to train my React&Redux skills.
 
 ### Functionality
 - Create playlist
